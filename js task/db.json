@@ -1,0 +1,67 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Fresh Apples",
+      "price": 150,
+      "category": "Food",
+      "image": "https://via.placeholder.com/150?text=Apples"
+    },
+    {
+      "id": 2,
+      "title": "Organic Bread",
+      "price": 80,
+      "category": "Food",
+      "image": "https://via.placeholder.com/150?text=Bread"
+    },
+    {
+      "id": 3,
+      "title": "Dairy Milk Chocolate",
+      "price": 50,
+      "category": "Food",
+      "image": "https://via.placeholder.com/150?text=Chocolate"
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy A14",
+      "price": 14999,
+      "category": "Electronic",
+      "image": "https://via.placeholder.com/150?text=Samsung"
+    },
+    {
+      "id": 5,
+      "title": "Noise ColorFit Smartwatch",
+      "price": 2499,
+      "category": "Electronic",
+      "image": "https://via.placeholder.com/150?text=Smartwatch"
+    },
+    {
+      "id": 6,
+      "title": "Philips Bluetooth Speaker",
+      "price": 1999,
+      "category": "Electronic",
+      "image": "https://via.placeholder.com/150?text=Speaker"
+    },
+    {
+      "id": 7,
+      "title": "Dove Shampoo",
+      "price": 250,
+      "category": "Personal Care",
+      "image": "https://via.placeholder.com/150?text=Shampoo"
+    },
+    {
+      "id": 8,
+      "title": "Nivea Body Lotion",
+      "price": 349,
+      "category": "Personal Care",
+      "image": "https://via.placeholder.com/150?text=Lotion"
+    },
+    {
+      "id": 9,
+      "title": "Colgate Toothpaste",
+      "price": 100,
+      "category": "Personal Care",
+      "image": "https://via.placeholder.com/150?text=Toothpaste"
+    }
+  ]
+}
